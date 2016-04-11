@@ -2,8 +2,9 @@
 Extended logic support for Smarthome.py
 
 ## WTF?
-When I wrote this smarthome.py just used `exec()` to execute users logic code. This caused some issues if you wanted to define functions and/or classes to organize your logics. Thus I created this plugin to handle logics
-in more controlled manner.
+When I wrote this plugin the Smarthome.py logic support just used `exec()` to execute users logic code.
+This caused some issues if you wanted to define functions and/or classes to organize your logics. 
+Thus I created this plugin to handle logics in more controlled manner.
 
 This plugin is very specific for my needs and if you find any use for it I would like to hear about it :)
 
